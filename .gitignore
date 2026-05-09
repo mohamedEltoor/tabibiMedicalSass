@@ -1,0 +1,10 @@
+# Ignore helper scripts and junk directories
+uploader.js
+gallery.js
+rename_mapped.js
+docs/screenshots/temp/
+docs/screenshots/raw/
+docs/screenshots/unnamed.png
+*.exe
+*.zip
+*.pdf
