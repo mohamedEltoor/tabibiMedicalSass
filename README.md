@@ -20,57 +20,113 @@ The platform supports complex real-world medical workflows, including **multi-br
 
 ## 📸 Platform Tour: A Complete SaaS Journey
 
+Experience the complete lifecycle of **Tabibi**, starting from patient discovery all the way to advanced clinical operations and enterprise EMR management. 
 
-### 1️⃣ The Patient Experience (Discovery & Booking)
-The patient journey is designed for maximum conversion, featuring advanced filtering, dynamic SEO profiles, and an intuitive booking flow.
+### 1️⃣ Patient Discovery & Seamless Booking
+The journey begins with the patient. The platform offers a frictionless search and booking experience designed to maximize conversion rates.
 
-| 🏠 Landing & Smart Search | 👨‍⚕️ Comprehensive SEO Profiles |
+| 🏠 Landing & Smart Search | 📍 Location & Area Selection |
 |:---:|:---:|
-| ![Home & Search](./docs/screenshots/search-results.png)<br>*Advanced multi-level filtering by governorate, city, and specialty.* | ![Profile](./docs/screenshots/public-profile-5.png)<br>*SEO-optimized dynamic profiles with full medical taxonomy.* |
+| ![Landing](./docs/img/1.png)<br>*Public landing page featuring a powerful doctor search engine.* | ![Area Search](./docs/img/2.png)<br>*Advanced filtering by governorate, city, and local areas.* |
 
-| 🏥 Multi-Branch Booking Engine | ⭐ Verified Patient Reviews |
+| 🩺 Specialty Selection | 🔍 Dynamic Search Results |
 |:---:|:---:|
-| ![Booking](./docs/screenshots/booking-2.png)<br>*Frictionless guest booking and dynamic schedule rendering per clinic branch.* | ![Reviews](./docs/screenshots/public-profile-3.png)<br>*Authentic review system only available to patients who attended their sessions.* |
+| ![Specialty](./docs/img/3.png)<br>*Granular selection of medical specialties and sub-specialties.* | ![Results](./docs/img/4.png)<br>*Dynamic search results with a comprehensive filtering sidebar.* |
 
-### 2️⃣ The Tenant Experience: Onboarding & Configuration
-Doctors are equipped with a powerful setup wizard to configure their digital presence and clinic operations.
-
-| 📝 Comprehensive Medical Profiling | 🏷️ Advanced Taxonomy Engine |
+| 👨‍⚕️ Comprehensive SEO Profiles | 📅 Interactive Scheduling |
 |:---:|:---:|
-| ![Profile Setup](./docs/screenshots/profile-setup-2.png)<br>*Capturing exact scientific titles, specialties, and experience.* | ![Taxonomy](./docs/screenshots/profile-setup-3.png)<br>*Tag-based selection for services and treated symptoms.* |
+| ![Profile](./docs/img/5.jpg)<br>*SEO-optimized dynamic public profiles showcasing the doctor's brand.* | ![Booking](./docs/img/6.png)<br>*Interactive calendar for selecting consultation dates and fees.* |
 
-| 📍 Multi-Location & Geodata Setup | 📅 Dynamic Scheduling Engine |
+| 🎓 Professional Background | 🏷️ Medical Taxonomy |
 |:---:|:---:|
-| ![Clinic Setup](./docs/screenshots/clinic-setup-1.png)<br>*Doctors can pinpoint their exact clinic location on the interactive map.* | ![Schedule Setup](./docs/screenshots/clinic-setup-2.png)<br>*Configuring complex weekly schedules, session durations, and fees.* |
+| ![Experience](./docs/img/7.png)<br>*Detailed view of the doctor's professional experience and education.* | ![Services](./docs/img/8.png)<br>*List of specific medical services and treated symptoms.* |
 
-| 🏢 Branch Management | 🚀 Automated SEO Generator |
+| ⭐ Verified Patient Reviews | 📖 Doctor Biography |
 |:---:|:---:|
-| ![Branch Setup](./docs/screenshots/clinic-setup-3.png)<br>*Easily add new branches and copy schedules with one click.* | ![SEO](./docs/screenshots/seo-preview-1.png)<br>*Auto-generated Arabic marketing copy to boost Google indexing.* |
+| ![Reviews](./docs/img/9.png)<br>*Authentic review system restricted to verified patients.* | ![Bio](./docs/img/10.png)<br>*Detailed doctor biography and professional summary.* |
 
-### 3️⃣ The Tenant Experience: Clinic Operations (CMS)
-A robust control center for daily clinic operations, financial tracking, and real-time alerts.
-
-| 📊 Dashboard & Financials | 🔔 Actionable Notification Center |
+| 📝 Frictionless Guest Booking | 🛡️ Booking Verification |
 |:---:|:---:|
-| ![Dashboard](./docs/screenshots/dashboard-1.png)<br>*Tenant overview with subscription status, revenue, and platform commissions.* | ![Notifications](./docs/screenshots/dashboard-4.png)<br>*Real-time alerts with one-click actions for bookings and subscription enforcements.* |
+| ![Booking Form](./docs/img/11.png)<br>*Guest booking modal capturing essential patient contact details.* | ![Verification](./docs/img/12.png)<br>*Seamless appointment verification step.* |
 
-### 4️⃣ The Tenant Experience: Medical & Staff Management (EMR & RBAC)
-Advanced enterprise features for delegating work and securely managing patient health records.
+| ✅ Booking Confirmation |
+|:---:|
+| ![Confirmation](./docs/img/13.png)<br>*Successful appointment confirmation generating a unique booking ID.* |
 
-| 👥 Staff Management (RBAC) | 📇 Unified Patient Directory |
+### 2️⃣ Tenant Dashboard & Real-Time Operations
+Doctors are equipped with a robust control center to manage their daily clinic operations, track financials, and receive real-time alerts.
+
+| 🔔 Actionable Notification Center | 🗂️ Expanded Navigation |
 |:---:|:---:|
-| ![Staff Setup](./docs/screenshots/staff-2.png)<br>*Delegating branch access to assistants with granular permissions.* | ![Directory](./docs/screenshots/emr-5.png)<br>*Centralized directory of all patients with quick access to their medical files.* |
+| ![Notifications](./docs/img/14.png)<br>*Real-time alerts for new bookings with one-click actions.* | ![Sidebar](./docs/img/15.png)<br>*Expanded sidebar providing access to all tenant modules.* |
 
-| 📝 Clinical Documentation | 🗂️ Electronic Medical Records (EMR) |
+| 📊 Reservation Analytics | 📅 Upcoming Visits Queue |
 |:---:|:---:|
-| ![Documentation](./docs/screenshots/emr-3.png)<br>*Recording new diagnoses, symptoms, and generating electronic prescriptions.* | ![EMR System](./docs/screenshots/emr-1.png)<br>*Comprehensive patient history and medical imaging (X-ray/Scan) uploads.* |
+| ![Analytics](./docs/img/16.png)<br>*Dashboard overview of today's reservations and revenue.* | ![Queue](./docs/img/17.png)<br>*Real-time queue management for upcoming patient visits.* |
 
-### 5️⃣ The Admin Experience (Superuser)
-Platform owners have complete oversight over tenants and platform revenue.
+| 📈 Performance Statistics |
+|:---:|
+| ![Stats](./docs/img/18.png)<br>*Statistical summary of clinic performance and platform commissions.* |
 
-| 📈 Platform Analytics | 🛡️ Onboarding Approvals |
+### 3️⃣ Electronic Medical Records (EMR) & Clinical Workflows
+A fully integrated EMR system allowing doctors to securely manage patient health records, document visits, and issue digital prescriptions.
+
+| 📇 Unified Patient Directory | 🗂️ EMR Initial State |
 |:---:|:---:|
-| ![Admin](./docs/screenshots/admin-dashboard.png)<br>*Platform-wide analytics, revenue tracking, and user management.* | ![Approvals](./docs/screenshots/admin-approvals.png)<br>*Strict verification workflow for new doctor registrations.* |
+| ![Patients](./docs/img/19.png)<br>*Centralized management of all registered clinic patients.* | ![EMR Start](./docs/img/20.png)<br>*The Electronic Medical Record interface ready for documentation.* |
+
+| 🩺 Clinical Documentation | 💊 Digital Prescriptions |
+|:---:|:---:|
+| ![Examination](./docs/img/21.png)<br>*Recording new diagnoses, symptoms, and medical examination details.* | ![Prescription](./docs/img/22.png)<br>*Digital e-prescription interface with advanced medication search.* |
+
+| 📋 Medical Visit Summary |
+|:---:|
+| ![Summary](./docs/img/23.png)<br>*Comprehensive visit summary including patient history and attached files.* |
+
+### 4️⃣ Clinic Administration & RBAC
+Enterprise features for delegating work to clinic staff with strict Role-Based Access Control.
+
+| 👥 Staff Management (RBAC) | ➕ Adding New Staff |
+|:---:|:---:|
+| ![Staff List](./docs/img/24.png)<br>*Delegating access to assistants with granular branch permissions.* | ![Add Staff](./docs/img/25.png)<br>*Modal interface for onboarding new clinic staff members.* |
+
+| 💳 Subscription Management |
+|:---:|
+| ![Billing](./docs/img/26.png)<br>*Tenant subscription plans and billing configuration.* |
+
+### 5️⃣ Tenant Setup & Configuration Wizard
+A powerful setup wizard for doctors to configure their digital presence, branches, and schedules.
+
+| 📝 Personal Details Setup | 🎓 Professional Titles |
+|:---:|:---:|
+| ![Personal](./docs/img/27.png)<br>*Capturing personal details and contact information.* | ![Titles](./docs/img/28.png)<br>*Configuring exact scientific titles and degrees.* |
+
+| 🏷️ Symptoms & Taxonomy | 🚀 Auto-SEO Generator |
+|:---:|:---:|
+| ![Symptoms](./docs/img/29.png)<br>*Tag-based selection for treating symptoms and diseases.* | ![SEO](./docs/img/30.png)<br>*Auto-generated Arabic marketing copy to boost Google indexing.* |
+
+| 📍 Multi-Location Map Setup | 🏢 Branch Management |
+|:---:|:---:|
+| ![Map](./docs/img/31.png)<br>*Doctors can pinpoint their exact clinic location on an interactive map.* | ![Branches](./docs/img/32.png)<br>*Multi-branch management interface for expanding clinic presence.* |
+
+| 💰 Services & Fees | 📅 Weekly Schedule Engine |
+|:---:|:---:|
+| ![Services](./docs/img/33.png)<br>*Configuration of medical services and specific consultation fees.* | ![Schedule](./docs/img/34.png)<br>*Weekly working schedule management.* |
+
+| ⏱️ Dynamic Time Slots |
+|:---:|
+| ![Slots](./docs/img/35.png)<br>*Detailed time slot and shift configuration engine.* |
+
+### 6️⃣ Mobile-First Experience
+The platform is fully responsive, ensuring a seamless experience for both patients on-the-go and doctors managing their clinics from their phones.
+
+| 📱 Mobile Search Interface | 🩺 Mobile Patient Queue |
+|:---:|:---:|
+| ![Mobile Search](./docs/img/36.png)<br>*Mobile-optimized landing page with primary search.* | ![Mobile Queue](./docs/img/37.png)<br>*Mobile doctor dashboard for tracking the current patient queue.* |
+
+| ⚙️ Mobile Profile Setup |
+|:---:|
+| ![Mobile Setup](./docs/img/38.png)<br>*Mobile-responsive profile setup and SEO preview.* |
 
 ---
 
