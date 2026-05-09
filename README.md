@@ -20,113 +20,177 @@ The platform supports complex real-world medical workflows, including **multi-br
 
 ## 📸 Platform Tour: A Complete SaaS Journey
 
-Experience the complete lifecycle of **Tabibi**, starting from patient discovery all the way to advanced clinical operations and enterprise EMR management. 
+Experience the complete lifecycle of **Tabibi**, starting from patient discovery all the way to advanced clinical operations and enterprise EMR management.
 
 ### 1️⃣ Patient Discovery & Seamless Booking
 The journey begins with the patient. The platform offers a frictionless search and booking experience designed to maximize conversion rates.
 
-| 🏠 Landing & Smart Search | 📍 Location & Area Selection |
-|:---:|:---:|
-| ![Landing](./docs/img/1.png)<br>*Public landing page featuring a powerful doctor search engine.* | ![Area Search](./docs/img/2.png)<br>*Advanced filtering by governorate, city, and local areas.* |
+#### 🏠 Landing & Smart Search
+*Public landing page featuring a powerful doctor search engine.*
+![Landing](./docs/img/1.png)
 
-| 🩺 Specialty Selection | 🔍 Dynamic Search Results |
-|:---:|:---:|
-| ![Specialty](./docs/img/3.png)<br>*Granular selection of medical specialties and sub-specialties.* | ![Results](./docs/img/4.png)<br>*Dynamic search results with a comprehensive filtering sidebar.* |
+#### 📍 Location & Area Selection
+*Advanced filtering by governorate, city, and local areas.*
+![Area Search](./docs/img/2.png)
 
-| 👨‍⚕️ Comprehensive SEO Profiles | 📅 Interactive Scheduling |
-|:---:|:---:|
-| ![Profile](./docs/img/5.jpg)<br>*SEO-optimized dynamic public profiles showcasing the doctor's brand.* | ![Booking](./docs/img/6.png)<br>*Interactive calendar for selecting consultation dates and fees.* |
+#### 🩺 Specialty Selection
+*Granular selection of medical specialties and sub-specialties.*
+![Specialty](./docs/img/3.png)
 
-| 🎓 Professional Background | 🏷️ Medical Taxonomy |
-|:---:|:---:|
-| ![Experience](./docs/img/7.png)<br>*Detailed view of the doctor's professional experience and education.* | ![Services](./docs/img/8.png)<br>*List of specific medical services and treated symptoms.* |
+#### 🔍 Dynamic Search Results
+*Dynamic search results with a comprehensive filtering sidebar.*
+![Results](./docs/img/4.png)
 
-| ⭐ Verified Patient Reviews | 📖 Doctor Biography |
-|:---:|:---:|
-| ![Reviews](./docs/img/9.png)<br>*Authentic review system restricted to verified patients.* | ![Bio](./docs/img/10.png)<br>*Detailed doctor biography and professional summary.* |
+#### 👨‍⚕️ Comprehensive SEO Profiles
+*SEO-optimized dynamic public profiles showcasing the doctor's brand.*
+![Profile](./docs/img/5.jpg)
 
-| 📝 Frictionless Guest Booking | 🛡️ Booking Verification |
-|:---:|:---:|
-| ![Booking Form](./docs/img/11.png)<br>*Guest booking modal capturing essential patient contact details.* | ![Verification](./docs/img/12.png)<br>*Seamless appointment verification step.* |
+#### 📅 Interactive Scheduling
+*Interactive calendar for selecting consultation dates and fees.*
+![Booking](./docs/img/6.png)
 
-| ✅ Booking Confirmation |
-|:---:|
-| ![Confirmation](./docs/img/13.png)<br>*Successful appointment confirmation generating a unique booking ID.* |
+#### 🎓 Professional Background
+*Detailed view of the doctor's professional experience and education.*
+![Experience](./docs/img/7.png)
+
+#### 🏷️ Medical Taxonomy
+*List of specific medical services and treated symptoms.*
+![Services](./docs/img/8.png)
+
+#### ⭐ Verified Patient Reviews
+*Authentic review system restricted to verified patients.*
+![Reviews](./docs/img/9.png)
+
+#### 📖 Doctor Biography
+*Detailed doctor biography and professional summary.*
+![Bio](./docs/img/10.png)
+
+#### 📝 Frictionless Guest Booking
+*Guest booking modal capturing essential patient contact details.*
+![Booking Form](./docs/img/11.png)
+
+#### 🛡️ Booking Verification
+*Seamless appointment verification step.*
+![Verification](./docs/img/12.png)
+
+#### ✅ Booking Confirmation
+*Successful appointment confirmation generating a unique booking ID.*
+![Confirmation](./docs/img/13.png)
 
 ### 2️⃣ Tenant Dashboard & Real-Time Operations
 Doctors are equipped with a robust control center to manage their daily clinic operations, track financials, and receive real-time alerts.
 
-| 🔔 Actionable Notification Center | 🗂️ Expanded Navigation |
-|:---:|:---:|
-| ![Notifications](./docs/img/14.png)<br>*Real-time alerts for new bookings with one-click actions.* | ![Sidebar](./docs/img/15.png)<br>*Expanded sidebar providing access to all tenant modules.* |
+#### 🔔 Actionable Notification Center
+*Real-time alerts for new bookings with one-click actions.*
+![Notifications](./docs/img/14.png)
 
-| 📊 Reservation Analytics | 📅 Upcoming Visits Queue |
-|:---:|:---:|
-| ![Analytics](./docs/img/16.png)<br>*Dashboard overview of today's reservations and revenue.* | ![Queue](./docs/img/17.png)<br>*Real-time queue management for upcoming patient visits.* |
+#### 🗂️ Expanded Navigation
+*Expanded sidebar providing access to all tenant modules.*
+![Sidebar](./docs/img/15.png)
 
-| 📈 Performance Statistics |
-|:---:|
-| ![Stats](./docs/img/18.png)<br>*Statistical summary of clinic performance and platform commissions.* |
+#### 📊 Reservation Analytics
+*Dashboard overview of today's reservations and revenue.*
+![Analytics](./docs/img/16.png)
+
+#### 📅 Upcoming Visits Queue
+*Real-time queue management for upcoming patient visits.*
+![Queue](./docs/img/17.png)
+
+#### 📈 Performance Statistics
+*Statistical summary of clinic performance and platform commissions.*
+![Stats](./docs/img/18.png)
 
 ### 3️⃣ Electronic Medical Records (EMR) & Clinical Workflows
 A fully integrated EMR system allowing doctors to securely manage patient health records, document visits, and issue digital prescriptions.
 
-| 📇 Unified Patient Directory | 🗂️ EMR Initial State |
-|:---:|:---:|
-| ![Patients](./docs/img/19.png)<br>*Centralized management of all registered clinic patients.* | ![EMR Start](./docs/img/20.png)<br>*The Electronic Medical Record interface ready for documentation.* |
+#### 📇 Unified Patient Directory
+*Centralized management of all registered clinic patients.*
+![Patients](./docs/img/19.png)
 
-| 🩺 Clinical Documentation | 💊 Digital Prescriptions |
-|:---:|:---:|
-| ![Examination](./docs/img/21.png)<br>*Recording new diagnoses, symptoms, and medical examination details.* | ![Prescription](./docs/img/22.png)<br>*Digital e-prescription interface with advanced medication search.* |
+#### 🗂️ EMR Initial State
+*The Electronic Medical Record interface ready for documentation.*
+![EMR Start](./docs/img/20.png)
 
-| 📋 Medical Visit Summary |
-|:---:|
-| ![Summary](./docs/img/23.png)<br>*Comprehensive visit summary including patient history and attached files.* |
+#### 🩺 Clinical Documentation
+*Recording new diagnoses, symptoms, and medical examination details.*
+![Examination](./docs/img/21.png)
+
+#### 💊 Digital Prescriptions
+*Digital e-prescription interface with advanced medication search.*
+![Prescription](./docs/img/22.png)
+
+#### 📋 Medical Visit Summary
+*Comprehensive visit summary including patient history and attached files.*
+![Summary](./docs/img/23.png)
 
 ### 4️⃣ Clinic Administration & RBAC
 Enterprise features for delegating work to clinic staff with strict Role-Based Access Control.
 
-| 👥 Staff Management (RBAC) | ➕ Adding New Staff |
-|:---:|:---:|
-| ![Staff List](./docs/img/24.png)<br>*Delegating access to assistants with granular branch permissions.* | ![Add Staff](./docs/img/25.png)<br>*Modal interface for onboarding new clinic staff members.* |
+#### 👥 Staff Management (RBAC)
+*Delegating access to assistants with granular branch permissions.*
+![Staff List](./docs/img/24.png)
 
-| 💳 Subscription Management |
-|:---:|
-| ![Billing](./docs/img/26.png)<br>*Tenant subscription plans and billing configuration.* |
+#### ➕ Adding New Staff
+*Modal interface for onboarding new clinic staff members.*
+![Add Staff](./docs/img/25.png)
+
+#### 💳 Subscription Management
+*Tenant subscription plans and billing configuration.*
+![Billing](./docs/img/26.png)
 
 ### 5️⃣ Tenant Setup & Configuration Wizard
 A powerful setup wizard for doctors to configure their digital presence, branches, and schedules.
 
-| 📝 Personal Details Setup | 🎓 Professional Titles |
-|:---:|:---:|
-| ![Personal](./docs/img/27.png)<br>*Capturing personal details and contact information.* | ![Titles](./docs/img/28.png)<br>*Configuring exact scientific titles and degrees.* |
+#### 📝 Personal Details Setup
+*Capturing personal details and contact information.*
+![Personal](./docs/img/27.png)
 
-| 🏷️ Symptoms & Taxonomy | 🚀 Auto-SEO Generator |
-|:---:|:---:|
-| ![Symptoms](./docs/img/29.png)<br>*Tag-based selection for treating symptoms and diseases.* | ![SEO](./docs/img/30.png)<br>*Auto-generated Arabic marketing copy to boost Google indexing.* |
+#### 🎓 Professional Titles
+*Configuring exact scientific titles and degrees.*
+![Titles](./docs/img/28.png)
 
-| 📍 Multi-Location Map Setup | 🏢 Branch Management |
-|:---:|:---:|
-| ![Map](./docs/img/31.png)<br>*Doctors can pinpoint their exact clinic location on an interactive map.* | ![Branches](./docs/img/32.png)<br>*Multi-branch management interface for expanding clinic presence.* |
+#### 🏷️ Symptoms & Taxonomy
+*Tag-based selection for treating symptoms and diseases.*
+![Symptoms](./docs/img/29.png)
 
-| 💰 Services & Fees | 📅 Weekly Schedule Engine |
-|:---:|:---:|
-| ![Services](./docs/img/33.png)<br>*Configuration of medical services and specific consultation fees.* | ![Schedule](./docs/img/34.png)<br>*Weekly working schedule management.* |
+#### 🚀 Auto-SEO Generator
+*Auto-generated Arabic marketing copy to boost Google indexing.*
+![SEO](./docs/img/30.png)
 
-| ⏱️ Dynamic Time Slots |
-|:---:|
-| ![Slots](./docs/img/35.png)<br>*Detailed time slot and shift configuration engine.* |
+#### 📍 Multi-Location Map Setup
+*Doctors can pinpoint their exact clinic location on an interactive map.*
+![Map](./docs/img/31.png)
+
+#### 🏢 Branch Management
+*Multi-branch management interface for expanding clinic presence.*
+![Branches](./docs/img/32.png)
+
+#### 💰 Services & Fees
+*Configuration of medical services and specific consultation fees.*
+![Services](./docs/img/33.png)
+
+#### 📅 Weekly Schedule Engine
+*Weekly working schedule management.*
+![Schedule](./docs/img/34.png)
+
+#### ⏱️ Dynamic Time Slots
+*Detailed time slot and shift configuration engine.*
+![Slots](./docs/img/35.png)
 
 ### 6️⃣ Mobile-First Experience
 The platform is fully responsive, ensuring a seamless experience for both patients on-the-go and doctors managing their clinics from their phones.
 
-| 📱 Mobile Search Interface | 🩺 Mobile Patient Queue |
-|:---:|:---:|
-| ![Mobile Search](./docs/img/36.png)<br>*Mobile-optimized landing page with primary search.* | ![Mobile Queue](./docs/img/37.png)<br>*Mobile doctor dashboard for tracking the current patient queue.* |
+#### 📱 Mobile Search Interface
+*Mobile-optimized landing page with primary search.*
+![Mobile Search](./docs/img/36.png)
 
-| ⚙️ Mobile Profile Setup |
-|:---:|
-| ![Mobile Setup](./docs/img/38.png)<br>*Mobile-responsive profile setup and SEO preview.* |
+#### 🩺 Mobile Patient Queue
+*Mobile doctor dashboard for tracking the current patient queue.*
+![Mobile Queue](./docs/img/37.png)
+
+#### ⚙️ Mobile Profile Setup
+*Mobile-responsive profile setup and SEO preview.*
+![Mobile Setup](./docs/img/38.png)
 
 ---
 
@@ -211,17 +275,60 @@ The application will be available at `http://localhost:3000`.
 
 ---
 
-## 🏗️ System Architecture
+## 🗂️ Project Structure
 
-The database is designed to handle complex relationships between users, doctors, and multi-location clinics.
+The repository is organized into a scalable Monorepo-like structure, separating the Next.js client from the Node.js backend while sharing conceptual workflows.
 
-- `User`: Handles authentication, roles (Admin, Doctor, Patient), and basic contact info.
-- `Doctor`: Extends user data with professional details, specialties, pricing, and an array of `Clinic` references.
-- `Clinic`: Represents physical locations with geodata and specific schedules.
-- `Appointment`: Links a Patient (or Guest), a Doctor, and a specific Clinic branch at a given timeslot.
-- `Review`: Verified feedback linked to completed appointments.
+```text
+tabibi-saas/
+├── client/                     # Next.js 16 (App Router) Frontend
+│   ├── src/
+│   │   ├── app/                # App Router Pages (Patient, Doctor, Admin)
+│   │   ├── components/         # Reusable UI components & Layouts
+│   │   ├── context/            # Global State Management (Auth, Theme)
+│   │   ├── hooks/              # Custom React Hooks (Data Fetching, Utils)
+│   │   ├── lib/                # API Client (Axios interceptors), Types
+│   │   └── styles/             # Tailwind CSS Configuration & Globals
+│   ├── public/                 # Static assets (Images, SVGs, SEO)
+│   └── package.json            # Client Dependencies
+│
+└── server/                     # Node.js & Express Backend
+    ├── src/
+    │   ├── config/             # Database & Environment Configuration
+    │   ├── controllers/        # Request Handlers (Auth, Clinics, EMR)
+    │   ├── middlewares/        # JWT Auth, Error Handling, RBAC Validation
+    │   ├── models/             # Mongoose Schemas (28+ Data Models)
+    │   ├── routes/             # API Endpoint Definitions
+    │   ├── services/           # Business Logic & External Integrations
+    │   └── utils/              # Helper functions (Hash, JWT, File Uploads)
+    └── package.json            # Server Dependencies
+```
 
 ---
+
+## 📊 Data Models (28 Models)
+
+Tabibi leverages a highly complex, normalized MongoDB schema architecture comprising **28 distinct data models and sub-documents**. This ensures maximum data integrity, rapid indexing, and strict relational constraints across the multi-tenant SaaS environment.
+
+**Core Entities Include:**
+* **Authentication & Identity:** `User`, `Role`, `Session`, `VerificationToken`
+* **Medical Taxonomy:** `Specialty`, `SubSpecialty`, `Symptom`, `Service`
+* **Tenant (Doctor) Core:** `DoctorProfile`, `ClinicBranch`, `WorkingHour`, `TimeSlot`
+* **Financials & Subscriptions:** `SubscriptionPlan`, `TenantBilling`, `Invoice`, `Transaction`
+* **Clinical Operations:** `PatientRecord`, `Appointment`, `BookingGuest`, `Review`
+* **Electronic Medical Records (EMR):** `MedicalHistory`, `Diagnosis`, `Prescription`, `MedicationItem`, `MedicalAttachment` (X-Rays/Scans)
+* **Platform Administration:** `StaffMember`, `PermissionGrant`, `SystemLog`
+
+*Note: The architecture heavily utilizes Mongoose `populate()`, virtuals, and aggregation pipelines to join relationships dynamically without compromising NoSQL horizontal scalability.*
+
+---
+
+## 📄 License
+
+This project is proprietary and confidential. It is showcased as a technical portfolio piece to demonstrate architectural capabilities, enterprise workflow design, and full-stack engineering proficiency.
+
+**Copyright © 2026 Mohamed Eltoor. All Rights Reserved.**
+
 
 <div align="center">
   <p>Built with ❤️ for modern healthcare.</p>
