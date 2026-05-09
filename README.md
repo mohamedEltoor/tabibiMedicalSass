@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./client/public/logo.png" alt="Tabibi Logo" width="200" style="border-radius: 20px; margin-bottom: 20px;"/>
+  <img src="./docs/logo.png" alt="Tabibi Logo" width="300" style="border-radius: 20px; margin-bottom: 20px;"/>
   <h1>Tabibi (طبيبي) - Enterprise Medical Booking SaaS</h1>
   <p>A comprehensive, multi-tenant healthcare platform connecting patients with top-tier doctors and clinics across Egypt.</p>
 
@@ -20,7 +20,6 @@ The platform supports complex real-world medical workflows, including **multi-br
 
 ## 📸 Platform Tour: A Complete SaaS Journey
 
-*(Replace the placeholder image paths with your actual screenshots)*
 
 ### 1️⃣ The Patient Experience (Discovery & Booking)
 The patient journey is designed for maximum conversion, featuring advanced filtering, dynamic SEO profiles, and an intuitive booking flow.
